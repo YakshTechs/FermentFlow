@@ -24,14 +24,13 @@ Want to run it locally? Let’s go:
    git clone https://github.com/YakshTechs/ferment-flow.git
    cd ferment-flow
 ```
+```
+ 2.  **Run the Project**
+     ```bash
+     Start Live Server on teh editor.
+   ```
 
-1. 2.  **Run the Project**
-1.     
-1.     ```bash
-1.     Start Live Server on teh editor.
-1.     ```
-
-
+```
 * * *
 
 ## 📽️ Tutorial
