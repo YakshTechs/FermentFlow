@@ -24,7 +24,6 @@ Want to run it locally? Let’s go:
    git clone https://github.com/YakshTechs/ferment-flow.git
    cd ferment-flow
    ```
-   ### Start Live Server on teh editor.
 
 * * *
 
