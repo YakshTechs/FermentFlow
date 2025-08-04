@@ -21,28 +21,16 @@ Want to run it locally? Let’s go:
 
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com/yaksh9737/gsap-bottle-scroll.git
-   cd gsap-bottle-scroll
+   git clone https://github.com/YakshTechs/ferment-flow.git
+   cd ferment-flow
 ```
 
-1. 2.  **Install Dependencies** (if using a build system)
+1. 2.  **Run the Project**
 1.     
 1.     ```bash
-1.     npm install
+1.     Start Live Server on teh editor.
 1.     ```
-1.     
-1. 3.  **Run the Project**
-1.     
-1.     ```bash
-1.     npm run dev  # or use Live Server if it's just HTML/CSS/JS
-1.     ```
-1.     
-1. 4.  **Open in Browser**
-1.     
-1.     ```
-1.     http://localhost:3000
-1.     ```
-1.     
+
 
 * * *
 
