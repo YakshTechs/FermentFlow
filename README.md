@@ -69,5 +69,3 @@ This project is open-source and free to use under the [MIT License](https://chat
 * * *
 
 Made with ❤️ by [Yaksh Devani](https://www.github.com/YakshTechs)
-
-```
