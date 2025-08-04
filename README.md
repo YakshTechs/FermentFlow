@@ -7,8 +7,6 @@ A smooth, scroll-triggered vintage bottle animation site built using **GSAP**, c
 ## 🌐 Demo
 
 - 🚀 Live Site → [GSAP Animated Bottle Scroll](https://ubiquitous-tarsier-78de93.netlify.app/)
-- 🧪 Codepen Sample → [View on Codepen](https://codepen.io/PixelPerfectLabs)
-
 ---
 
 ## 📸 Preview
